@@ -40,30 +40,33 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The identify factors contributing to high turnover among entry and lower-level employees. The findings will help HR to make changes that aim to improve retention and employee experience
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: All current and recently departed (within the last 3-6 months) entry and lower-level employees across departments
+Sampling frame: HR employee records and exit interview database with information on eligible respondents
+Sampling units: Selected entry and lower-level employees across departments (current and former)
+Observational units: entry and lower-level employees across departments
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How satisfied are you with your current role at the company? (1-dissatisfied, 2-dissatisfied, 3-neutral, 4-satisfied, 5-very satisified)
+2. Which factors have influenced your decision to stay? (Select all that apply): compensation and benefits, workload, management support, career growth opportunities, work-life balance, workplace culture, job security
+3. Which factors have influenced your decision to leave? (Select all that apply): compensation and benefits, workload, management support, career growth opportunities, work-life balance, workplace culture, job security
+4. How manageable is your workload? (1-very unmanageable, 2-unmanageable, 3-neutral, 4-manageable, 5-very manageable)
+5. To what extent do you feel valued and recognized for your contributions? (1-Not at all, 2-to a little extent, 3-neutral, 4-to some extent, 5-to a great extent)
+6. For former employees: What was your primary reason for leaving the company (open-ended)?
+7. What changes would most improve your experience at the company (open-ended)?
+8. How would you rate your relationship with your direct supervisor? (Poor, Fair, Good, Excellent)
+9. Is there anything else that you would like to share with us? (open-ended)
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +74,19 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type: stratified, cross-sectional, probability sample (household with telephone record and individual with age-order selection)
+2. Sample size: 50,000
+3. Target population: all persons 15 years of age and older in Canada, excluding residents of the Yukon, Northwest Territories, and Nunavut, full-time residents of institutions, and residents of First Nations reserves
+4. Sampling frame: GSS frame (landline and mobile phones and address register)
+5. Survey mode(s): electronic questionnaire or through CATI 
+6. Timeline: September 4 - December 28 2018
+7. Response rate: The overall response rate was 41.9%
+8. Weights: final person-level weight on PUMF, 500 standard boostrap weights for variance estimation
+9. Data processing: Social Survey Processing Environment, where encrypted data was transmitted to OTtawa, write-in responses coded to existing categories or "other", duplicates, out-of-scope and non-response records removed
+10. Cleaning, imputation, etc: nearest-neighbour score function for donor imputation for the most item/partial non-response, mean imputation
+11. Sources of error: sampling error, non-sampling errors (e.g., coverage error, non-response, response error, processing error, non-response bias)
+12. Limitations, known biases, etc: first time they used internet (not directly comparable to 2013 results), frame gaps (no-telephone households excluded), income skew, self-report bias, voluntary participation
+13. Link to documentation and any additional sources used: https://www150.statcan.gc.ca/n1/pub/12-002-x/2014001/article/11901-eng.htm; https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234; https://www150.statcan.gc.ca/n1/en/catalogue/89F0115X
 ```
 
 ## Rubric
